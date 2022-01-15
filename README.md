@@ -2,4 +2,4 @@
 
       For BMB@NITS, to update daily thoughts instead of on a whatsapp grp.
       Projects Showcase.
-      And trying out random  but cool stuff.
+      Trying out random.
