@@ -7,8 +7,8 @@ interface Idea{
 priority:number, // [1,10]
 need:boolean,
 want:boolean,
-intent:boolean,
-source:self|internet|friend,
+intent:string, // strong|weak|mood
+source:string, //self|internet|friend
 planReady:boolean,
 research:boolean,
 haveNecessarySkills:boolean;
